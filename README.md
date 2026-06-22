@@ -21,3 +21,4 @@ I'm aspiring to become Software Engineer and currently learning Full-Stack Devel
 ### My Contribution
 
 ### My Stats and Activities
+![Stats](https://github-readme-stats.vercel.app/api?username=AddryaneDev&theme=dark&show_icons=true&hide_border=true&count_private=true)
