@@ -12,6 +12,7 @@ I'm aspiring to become Software Engineer and currently learning Full-Stack Devel
 ![Github](https://img.shields.io/badge/Github-181717?style=for-the-badge\&logo=github\&logoColor=FFFFFF)
 ![HTML5](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge\&logo=html5\&logoColor=FFFFFF)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge\&logo=openjdk\&logoColor=FFFFFF)
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge\&logo=kotlin\&logoColor=FFFFFF)
 ![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge\&logo=markdown\&logoColor=FFFFFF)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge\&logo=mysql\&logoColor=FFFFFF)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge\&logo=php\&logoColor=FFFFFF)
